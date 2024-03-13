@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-plugin-opa-node
+  title: '@backstage/plugin-opa-node'
+spec:
+  lifecycle: experimental
+  type: backstage-node-library
+  owner: maintainers
